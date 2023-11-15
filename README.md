@@ -10,7 +10,7 @@ A playful and creative command-line application that generates random soulmate m
 4. Run the following command:
 
 ```bash
-node soulmateGame.js
+node soulmate.js
 ```
 
 This will display a randomly generated soulmate creative message each time you run the script.
