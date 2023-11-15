@@ -17,4 +17,4 @@ This will display a randomly generated soulmate creative message each time you r
 
 ## Soulmates Messages
 
-The soulmate messages are stored in the `soulmateMessages` array in the `soulmateGame.js` file. Feel free to customize the messages to add your own creative touch.
+The soulmate messages are stored in the `soulmateMessages` array in the `soulmate.js` file. Feel free to customize the messages to add your own creative touch.
